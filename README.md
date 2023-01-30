@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nuriyevanar0
-- 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI/ML Engineering
+- 🌱 I’m currently learning C#
 - 📫 How to reach me - ig: anarnuriyev0
 
 <!---
