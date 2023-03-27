@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuriyevanar0
 - 👀 I’m interested in AI/ML Engineering
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me - ig: anarnuriyev0
 
 <!---
